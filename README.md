@@ -4,8 +4,8 @@ The **Guelph Student Incubator** is a unified platform for University of Guelph 
 Students can match with research labs, find volunteer or thesis projects, discover startup opportunities, and connect with talented peers across campus.  
 Features include:
 - **Research Matchmaking** for connecting students with faculty and open research positions
-- **Startup Collaboration Oppurtunities** where students can post ideas
-- **Semester Long Hackathon** with microgrants, prizes, and valuable expereince
+- **Startup Collaboration Oppurtunities** where students can post ideas on a public idea board
+- **A Semester Long Hackathon** with microgrants, prizes, and valuable experience
 
 Proudly supported by the Society of Computer and Information Sciences (SOCIS).
 
