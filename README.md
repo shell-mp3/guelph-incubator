@@ -8,7 +8,6 @@ Features include:
 - **A Semester Long Hackathon** with microgrants, prizes, and valuable experience
 
 Proudly supported by the Society of Computer and Information Sciences (SOCIS).
-<img width="1395" height="942" alt="image" src="https://github.com/user-attachments/assets/9e0c3891-a011-47a1-9606-438775c7b51e" />
 <img width="1503" height="827" alt="image" src="https://github.com/user-attachments/assets/cc6f1292-0051-42ff-a1e8-4ce0387243d4" />
 
 
